@@ -1,8 +1,8 @@
 +++
-author = "Hugo Authors"
+author = "lzy"
 title = "为来大数学家"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+date = "2022-09-18"
+description = "无形的装逼爱好者"
 tags = [
     "高等代数",
     "数学分析",
@@ -10,12 +10,12 @@ tags = [
     "MySQL",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "来啊！让我看看新东西",
+    "我的好朋友",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 
-hello world 我是李祖远
+hello world 我是lzy
