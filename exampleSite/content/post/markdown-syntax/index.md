@@ -1,13 +1,13 @@
 +++
 author = "Hugo Authors"
-title = "Markdown Syntax Guide"
+title = "为来大数学家"
 date = "2019-03-11"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
+    "高等代数",
+    "数学分析",
+    "数据分析",
+    "MySQL",
 ]
 categories = [
     "themes",
