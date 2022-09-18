@@ -1,8 +1,8 @@
-baseurl: https://example.com
+﻿baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: lzy' blog
 
 languages:
     en:
